@@ -52,42 +52,15 @@ body {
     font-size: 1.5rem;
 }
 
-/*a {
-    color: #fff;
-    text-decoration: none;
-    text-align: center;
-}
-*/
-
-/*.links {
-    word-spacing: 15px;
-    font-size: 1rem;
-}
-*/
 a:hover {
     color: red;
     transition: all 0.3s, ease-in-out;
 }
 
 @media screen and (max-width: 960px) {
-    .header-container {
+    .header {
         padding: 9px;
     }
-
-    /*.links {
-        list-style-type: none;
-     margin: 0;
-     padding: 0;
-     width: 100%;
-     background-color: #000000;
-    }*/
-
-    /*a {
-        display: block;
-    color: #fff;
-    padding: 8px 16px;
-    text-decoration: none;
-    }*/
 
     .navbar_menu {
         display: grid;
